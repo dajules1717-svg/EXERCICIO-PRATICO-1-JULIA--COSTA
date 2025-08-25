@@ -1,0 +1,23 @@
+<table border="1">
+	<h2>Horário de Aulas</h2>
+    <tr>
+	<td>Disciplina</td>
+	<td>Professor</td>
+	<td>Horário</td>
+    </tr>
+    <tr>
+	<td>Matemática</td>
+	<td>Prof.Silva</td>
+	<td>08:00-09:00</td>
+	
+    </tr>
+    <tr>
+	<td>Português</td>
+	<td>Profa.Maria</td>
+	<td>09:00-10:00</td>
+    </tr>
+    <tr>
+	<td>História</td>
+	<td>Prof.João</td>
+	<td>10:15-11:15</td>
+    </tr>
